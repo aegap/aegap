@@ -42,5 +42,5 @@
 
 
 
-![icon-collection-glow](https://stats.pphat.top/icons?name=react,typescript,github,tailwindcss&effect=glow&columns=2)
+![icon-collection-wave](https://stats.pphat.top/icons?name=react,typescript,github,tailwindcss&effect=glow&columns=2)
 

@@ -37,3 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
 </div>
+
+
+
+
+
+![icon-collection-glow](https://stats.pphat.top/icons?name=react,typescript,github,tailwindcss&effect=glow&columns=2)
+

@@ -27,7 +27,7 @@
 
 
 
-![icon-collection-glow](https://stats.pphat.top/icons?name=react,typescript,github,tailwindcss&effect=wave&columns=2)
+![icon-collection-glow](https://stats.pphat.top/icons?name=c,c++,vim,github,aicss&effect=wave&columns=2)
 
 
 

@@ -30,8 +30,6 @@
 ![icon-collection-glow](https://stats.pphat.top/icons?name=react,typescript,github,tailwindcss&effect=wave&columns=2)
 
 
-![graph-default](https://stats.pphat.top/graph?username=aegac)
-
 
 ![graph-wave](https://stats.pphat.top/graph?username=aegac&animate=wave&theme=react)
 

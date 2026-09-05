@@ -25,7 +25,7 @@
 ![Stats Card](https://stats.pphat.top/stats?username=aegap&avatar_mode=radar)
 
 
-(https://stats.pphat.top/stats?username=aegac&avatar_mode=radar&theme=react&data_border_style=solid)
+![Stats Card](https://stats.pphat.top/stats?username=aegac&avatar_mode=radar&theme=react&data_border_style=solid)
 
 
 

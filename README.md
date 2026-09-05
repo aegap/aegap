@@ -24,4 +24,10 @@
 
 ![Stats Card](https://stats.pphat.top/stats?username=aegap&avatar_mode=radar)
 
+
+https://stats.pphat.top/stats?username=aegac&avatar_mode=radar&theme=react&data_border_style=solid
+
+
+
+
 ![icon-collection-glow](https://stats.pphat.top/icons?name=react,typescript,github,tailwindcss&effect=wave&columns=2)

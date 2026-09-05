@@ -32,3 +32,9 @@
 
 ![graph-default](https://stats.pphat.top/graph?username=aegac)
 
+![graph-wave](https://stats.pphat.top/graph?username=aegac&animate=wave&theme=aurora)
+![graph-pulse](https://stats.pphat.top/graph?username=aegac&animate=pulse&theme=matrix)
+
+![graph-wave](https://stats.pphat.top/graph?username=aegac&animate=wave&theme=react)
+![graph-pulse](https://stats.pphat.top/graph?username=aegac&animate=pulse&theme=react)
+
